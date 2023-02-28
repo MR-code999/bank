@@ -1,0 +1,139 @@
+.blance-section {
+    background-color: #86EFAC;
+    width: 80%;
+    height: 91px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.head {
+    margin-top: 20px;
+    margin-bottom: 18px;
+    font-weight: 500;
+    color: fuchsia;
+
+}
+
+.main-blance button {
+    width: 50%;
+    margin: auto;
+    height: 50px;
+    margin-top: 15px;
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    border: none;
+    border-radius: 33px;
+    border-radius: 34px;
+    background: #51b853;
+    box-shadow: 6px 6px 12px #636363,
+        -6px -6px 12px #ffffff;
+}
+
+.main-blance h4 {
+    padding-top: 23px;
+    font-size: 33px;
+    color: chocolate;
+    font-weight: 700;
+
+}
+
+.main-blance h2 {
+    font-weight: 800;
+}
+
+.blance {
+    cursor: pointer;
+    width: 100%;
+    margin-top: 22px;
+    height: 50px;
+}
+
+.deposit-withdraw-section {
+    margin-top: 60px;
+    justify-content: space-between;
+}
+
+.right {
+    height: 145px;
+    width: 45%;
+    background-color: #93C5FD;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.right h2 {
+    color: white;
+    font-weight: 700;
+}
+
+.right h3 {
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+    padding-top: 25px;
+}
+
+.left {
+    height: 145px;
+    width: 45%;
+    background-color: #FDE047;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.left h2 {
+    color: white;
+    font-weight: 700;
+}
+
+.left h3 {
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+    padding-top: 25px;
+}
+
+.amount-select1 {
+    height: 200px;
+    width: 45%;
+    background-color: #DCFCE7;
+    margin-top: -21px;
+    border-radius: 15px;
+}
+
+.amount-select1 h3 {
+    padding-top: 31px;
+    padding-left: 9%;
+    font-weight: 400;
+}
+
+.amount-select2 {
+    height: 200px;
+    width: 45%;
+    background-color: #FEE2E2;
+    margin-top: -21px;
+    border-radius: 15px;
+}
+
+.amount-select2 h3 {
+    padding-top: 31px;
+    padding-left: 9%;
+    font-weight: 400;
+}
+
+.depo-withdr {
+    width: 80%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 9%;
+    height: 18%;
+}
+
+.amount-select1 button {
+    margin-left: 9%;
+}
+
+.amount-select2 button {
+    margin-left: 9%;
+}
